@@ -2,11 +2,33 @@
 
 This is a currency converter application based on the theme of Lord of the Rings built on Xcode. This application basically features multiple pieces and pennies to get converted from each other. 
 
-![Simulator Screenshot - iPhone 16 Pro - 2025-05-14 at 10 52 03](https://github.com/user-attachments/assets/6003946f-0f61-44d2-9e10-34a2cbe63850)
-![Simulator Screenshot - iPhone 16 Pro - 2025-05-14 at 10 52 15](https://github.com/user-attachments/assets/88f8dbff-acac-49b7-a8ed-dabb0a9f7d84)
-![Simulator Screenshot - iPhone 16 Pro - 2025-05-14 at 10 52 35](https://github.com/user-attachments/assets/f3632013-300a-4c34-9fd2-b0fb6c8adbe5)
-![Simulator Screenshot - iPhone 16 Pro - 2025-05-14 at 10 52 20](https://github.com/user-attachments/assets/d2236b52-f978-4b07-b0f0-57f2d0823912)
-![Simulator Screenshot - iPhone 16 Pro - 2025-05-14 at 10 53 30](https://github.com/user-attachments/assets/c6a62090-90df-4d2b-854f-6be8d8ead13f)
+## LOTR Converter Preview
+<p float="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/1c43c3fa-0d55-4985-b367-60dc342ead7b" 
+    alt="LOTR1" 
+    width="300" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/b1ec4b90-1d3a-409d-b55a-aeb278342af7" 
+    alt="LOTR Converter2" 
+    width = "300" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src= "https://github.com/user-attachments/assets/7eeac790-580d-477a-bf29-0f765d609d9a"
+    alt= "LOTR Converter 3"
+    width = "300"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src= "https://github.com/user-attachments/assets/92f0bc04-1f09-4456-9d92-ed12212fc670"
+    alt= "LOTR Converter 3"
+    width = "300"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src= "https://github.com/user-attachments/assets/0373d319-1a97-430e-abcd-f3f276b70ed4"
+    alt= "LOTR Converter 3"
+    width = "300"/>
+  
+
+</p>
+
 
 
 
